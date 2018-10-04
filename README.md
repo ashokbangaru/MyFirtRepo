@@ -1,2 +1,2 @@
 # MyFirtRepo
-For testing development scipts
+For testing development scipts on Azure VMs
